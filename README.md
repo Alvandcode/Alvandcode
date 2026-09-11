@@ -9,7 +9,7 @@
 
 I build practical tools — from Android security scanners and DNS benchmark tools to Flutter apps and Kotlin utilities. All my projects are open-source and MIT-licensed.
 
-- Currently working on: **Alvand-Player (Kotlin)** and **qand-app (Flutter)**
+- Currently working on: <!-- WORKING-ON:START -->**Alvand-Player (Kotlin)** and **qand-app (Flutter)**<!-- WORKING-ON:END -->
 - Learning: Advanced Android Security, Spring Boot, Docker
 - Based in Iran — open to remote collaboration
 - Reach me: [Telegram](https://t.me/a_c_official) | [Website](https://alvandcode.github.io)
@@ -25,7 +25,7 @@ I build practical tools — from Android security scanners and DNS benchmark too
 
 من ابزارهای کاربردی می‌سازم — از اسکنر امنیتی اندروید و ابزار تست DNS تا اپ فلاتری و ابزارهای کاتلین. همه پروژه‌ها متن‌باز و با لایسنس MIT هستند.
 
-- در حال کار روی: **Alvand-Player (کاتلین)** و **qand-app (فلاتر)**
+- در حال کار روی: <!-- WORKING-ON-FA:START -->**Alvand-Player (کاتلین)** و **qand-app (فلاتر)**<!-- WORKING-ON-FA:END -->
 - در حال یادگیری: امنیت پیشرفته اندروید، Spring Boot، داکر
 - ساکن ایران — آماده همکاری ریموت
 - ارتباط: [تلگرام](https://t.me/a_c_official) | [وب‌سایت](https://alvandcode.github.io)

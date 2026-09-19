@@ -9,7 +9,7 @@
 
 I build practical tools — from Android security scanners and DNS benchmark tools to Flutter apps and Kotlin utilities. All my projects are open-source and MIT-licensed.
 
-- Currently working on: <!-- WORKING-ON:START -->**qand-app (Dart)** and **image-metadata-cleaner (Python)**<!-- WORKING-ON:END -->
+- Currently working on: <!-- WORKING-ON:START -->**qand-app (Dart)** and **StegaSuite-Windows (C#)**<!-- WORKING-ON:END -->
 - Learning: Advanced Android Security, Spring Boot, Docker
 - Based in Iran — open to remote collaboration
 - Reach me: [Telegram](https://t.me/a_c_official) | [Website](https://alvandcode.github.io)
@@ -25,7 +25,7 @@ I build practical tools — from Android security scanners and DNS benchmark too
 
 من ابزارهای کاربردی می‌سازم — از اسکنر امنیتی اندروید و ابزار تست DNS تا اپ فلاتری و ابزارهای کاتلین. همه پروژه‌ها متن‌باز و با لایسنس MIT هستند.
 
-- در حال کار روی: <!-- WORKING-ON-FA:START -->**qand-app (دارت)** و **image-metadata-cleaner (پایتون)**<!-- WORKING-ON-FA:END -->
+- در حال کار روی: <!-- WORKING-ON-FA:START -->**qand-app (دارت)** و **StegaSuite-Windows (C#)**<!-- WORKING-ON-FA:END -->
 - در حال یادگیری: امنیت پیشرفته اندروید، Spring Boot، داکر
 - ساکن ایران — آماده همکاری ریموت
 - ارتباط: [تلگرام](https://t.me/a_c_official) | [وب‌سایت](https://alvandcode.github.io)

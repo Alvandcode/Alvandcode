@@ -9,7 +9,7 @@
 
 I build practical tools — from Android security scanners and DNS benchmark tools to Flutter apps and Kotlin utilities. Most projects are MIT-licensed (see each repo's LICENSE; Gamenet Manager is non-commercial).
 
-- Currently working on: <!-- WORKING-ON:START -->**[qand-app](https://github.com/Alvandcode/qand-app) (Dart)** and **[StegaSuite-Windows](https://github.com/Alvandcode/StegaSuite-Windows) (C#)**<!-- WORKING-ON:END -->
+- Currently working on: <!-- WORKING-ON:START -->**gamenet-windows-pro (JavaScript)** and **image-metadata-cleaner (Python)**<!-- WORKING-ON:END -->
 - Learning: Advanced Android Security, Spring Boot, Docker
 - Based in Iran — open to remote collaboration
 - Reach me: [Telegram](https://t.me/a_c_official) | [Website](https://alvandcode.github.io)
@@ -25,7 +25,7 @@ I build practical tools — from Android security scanners and DNS benchmark too
 
 من ابزارهای کاربردی می‌سازم — از اسکنر امنیتی اندروید و ابزار تست DNS تا اپ فلاتری و ابزارهای کاتلین. بیشتر پروژه‌ها متن‌باز و با لایسنس MIT هستند (لایسنس هر ریپو را در فایل LICENSE آن ببینید؛ Gamenet Manager غیرتجاری است).
 
-- در حال کار روی: <!-- WORKING-ON-FA:START -->**[qand-app](https://github.com/Alvandcode/qand-app) (دارت — اپ سفارش قنادی قند)** و **[StegaSuite-Windows](https://github.com/Alvandcode/StegaSuite-Windows) (سی‌شارپ)**<!-- WORKING-ON-FA:END -->
+- در حال کار روی: <!-- WORKING-ON-FA:START -->**gamenet-windows-pro (جاوااسکریپت)** و **image-metadata-cleaner (پایتون)**<!-- WORKING-ON-FA:END -->
 - در حال یادگیری: امنیت پیشرفته اندروید، Spring Boot، داکر
 - ساکن ایران — آماده همکاری ریموت
 - ارتباط: [تلگرام](https://t.me/a_c_official) | [وب‌سایت](https://alvandcode.github.io)
